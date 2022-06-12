@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="250dp"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="@dimen/image_margin"
+    android:gravity="center"
+    android:id="@+id/linearLayout"
+    tools:ignore="UseCompoundDrawables">
+
+    <ImageView
+        android:id="@+id/animeItemImage"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        tools:srcCompat="@tools:sample/avatars"
+        android:contentDescription="@string/anime_item_content_description" />
+
+    <TextView
+        android:id="@+id/animeItemTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:autoSizeMinTextSize="1dp"
+        android:autoSizeTextType="uniform"
+        android:lines="2"
+        android:textAppearance="?attr/textAppearanceListItem" />
+</LinearLayout>

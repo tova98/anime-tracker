@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Anime Tracker</string>
+    <string name="login_form">Login Form</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="mainMessage">Welcome! Please load a category from the bottom navigation bar!</string>
+    <string name="anime_item_content_description">Anime list item</string>
+    <string name="studio_text">Studio:</string>
+    <string name="episodes_text">Episodes:</string>
+    <string name="episodes_watched_text">Episodes watched:</string>
+    <string name="filter_hint">Filter by Anime title:</string>
+    <string name="profile_picture_description">Profile picture</string>
+    <string name="profile_username">username:</string>
+    <string name="profile_episodes_watched">episodes watched:</string>
+    <string name="profile_shows_watched">shows watched:</string>
+    <string name="profile_time_spent">time spent:</string>
+    <string name="profile_join_date">join date:</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="change_theme">CHANGE THEME</string>
+    <string name="logout">LOGOUT</string>
+    <string name="genres_text">Genres:</string>
+    <string name="aired_date_text">Aired date:</string>
+    <string name="default_theme">DEFAULT</string>
+    <string name="red_theme">RED</string>
+    <string name="green_theme">GREEN</string>
+    <string name="blue_theme">BLUE</string>
+</resources>
